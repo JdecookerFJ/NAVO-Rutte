@@ -1,0 +1,9 @@
+Mark Rutte is sinds 1 oktober 2024 de secretaris-generaal van de NAVO. Hij heeft sindsdien tientallen publieke speeches, persco's of andere openbare optredens gedaan. De toespraak die het meeste stof deed opwaaien, was op 12 december 2024. In zijn eerste grote speech als NAVO-chef, voor denktank Carnegie Europe in Brussel, gaf Rutte geen geruststellend verhaal. Volgens 'onze' oud-premier is het "tijd om ons geestelijk voor te bereiden op oorlog". Er volgde veel publiciteit voor de speech. Vooral de boodschap van Rutte werd grondig geanalyseerd. De speech zou de "*gewone Nederlander* wakker hebben geschud", stelde René van Rijckevorsel in EW Magazine. Rutte had de 'noodklok' gevonden, analyseerde Michel Kerres in NRC.
+
+Was de speech van Rutte een anomalie? Of is zijn toon als NAVO-baas een sombere over de hele linie? Kortom, welke toon slaat Rutte aan in zijn beginfase als secretaris-generaal?
+
+Alle openbare speeches, interacties met de pers en persconferenties zijn openbaar en te vinden in de pers-omgeving van de NAVO-website. Ik heb de eerste 65 openbare uitingen van Rutte verzameld (van 1 oktober 2024 t/m 10 maart 2025)en verzameld in een openbaar dataset.
+
+Deze teksten zijn Engelstalig en laat er nu net een lexicon met woordscores bestaan: het NRC Emotion Lexicon. Hierin zijn woordscores toegekend aan woorden: "The NRC Emotion Lexicon is a list of English words and their associations with eight basic emotions (anger, fear, anticipation, trust, surprise, sadness, joy, and disgust) and two sentiments (negative and positive). The annotations were manually done by crowdsourcing." Een goede basis voor een analyse van Rutte's speeches die we hieronder in concept gaan doen.
+
+Ook duiken we in de wondere wereld van Named Entity Recognition, waarin we uit de speeches locaties, persoonsnamen en organisatienamen kunnen extraheren. Wie o wie noemt Rutte het meest? Netanyahu? Poetin? Of toch Zelensky?
