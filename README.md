@@ -6,4 +6,4 @@ Alle openbare speeches, interacties met de pers en persconferenties zijn openbaa
 
 Deze teksten zijn Engelstalig en laat er nu net een lexicon met woordscores bestaan: het NRC Emotion Lexicon. Hierin zijn woordscores toegekend aan woorden: "The NRC Emotion Lexicon is a list of English words and their associations with eight basic emotions (anger, fear, anticipation, trust, surprise, sadness, joy, and disgust) and two sentiments (negative and positive). The annotations were manually done by crowdsourcing." Een goede basis voor een analyse van Rutte's speeches die we hieronder in concept gaan doen.
 
-Ook duiken we in de wondere wereld van Named Entity Recognition, waarin we uit de speeches locaties, persoonsnamen en organisatienamen kunnen extraheren. Wie o wie noemt Rutte het meest? Netanyahu? Poetin? Of toch Zelensky?
+Ook duiken we in de wondere wereld van Named Entity Recognition, waarin we uit de speeches locaties, persoonsnamen en organisatienamen kunnen extraheren. Wie o wie noemt Rutte het meest? Netanyahu? Poetin? Of toch Zelensky? Het notebook loodst je door het proces heen.
